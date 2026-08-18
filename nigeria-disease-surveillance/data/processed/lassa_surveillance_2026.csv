@@ -1,0 +1,38 @@
+disease,year,epi_week,state,weekly_suspected,weekly_confirmed,weekly_probable,weekly_hcw_cases,weekly_deaths,cumulative_suspected,cumulative_confirmed,cumulative_probable,cumulative_hcw_cases,cumulative_deaths,cumulative_cfr,weekly_cfr
+Lassa Fever,2026,27,Ondo,61,8,0,0,1,1603,282,0,10,66,23.4,12.5
+Lassa Fever,2026,27,Bauchi,8,1,0,0,0,986,238,1,5,32,13.45,0.0
+Lassa Fever,2026,27,Taraba,0,0,0,0,0,364,131,0,3,43,32.82,0.0
+Lassa Fever,2026,27,Edo,45,3,0,0,1,1333,89,0,0,20,22.47,33.33
+Lassa Fever,2026,27,Benue,12,1,0,0,0,407,58,2,15,14,24.14,0.0
+Lassa Fever,2026,27,Plateau,8,0,0,0,0,166,33,3,2,11,33.33,0.0
+Lassa Fever,2026,27,Ebonyi,8,0,0,0,0,268,24,0,3,12,50.0,0.0
+Lassa Fever,2026,27,Nasarawa,0,0,0,0,0,263,17,0,7,3,17.65,0.0
+Lassa Fever,2026,27,Kaduna,0,0,0,0,0,86,13,0,0,3,23.08,0.0
+Lassa Fever,2026,27,Kogi,1,1,0,0,1,45,11,0,0,7,63.64,100.0
+Lassa Fever,2026,27,Kano,0,0,0,0,0,100,8,0,3,1,12.5,0.0
+Lassa Fever,2026,27,Gombe,0,0,0,0,0,55,7,0,0,4,57.14,0.0
+Lassa Fever,2026,27,Katsina,0,0,0,0,0,19,5,0,0,4,80.0,0.0
+Lassa Fever,2026,27,Oyo,2,0,0,0,0,119,5,0,3,1,20.0,0.0
+Lassa Fever,2026,27,FCT,1,0,0,0,0,47,3,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Kebbi,0,0,0,0,0,9,3,0,0,1,33.33,0.0
+Lassa Fever,2026,27,Zamfara,0,0,0,0,0,25,2,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Jigawa,0,0,0,0,0,49,2,0,0,2,100.0,0.0
+Lassa Fever,2026,27,Niger,0,0,0,0,0,12,1,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Kwara,1,0,0,0,0,15,1,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Cross River,0,0,0,0,0,28,1,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Ogun,1,0,0,0,0,24,1,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Enugu,4,0,0,0,0,59,1,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Akwa Ibom,0,0,0,0,0,2,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Ekiti,1,0,0,0,0,48,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Imo,0,0,0,0,0,8,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Sokoto,0,0,0,0,0,1,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Yobe,0,0,0,0,0,8,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Delta,0,0,0,0,0,33,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Rivers,0,0,0,0,0,8,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Anambra,0,0,0,0,0,12,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Osun,0,0,0,0,0,17,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Bayelsa,0,0,0,0,0,8,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Abia,0,0,0,0,0,9,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Borno,0,0,0,0,0,14,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Lagos,1,0,0,0,0,72,0,0,0,0,0.0,0.0
+Lassa Fever,2026,27,Adamawa,0,0,0,0,0,4,0,0,0,0,0.0,0.0
