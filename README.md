@@ -714,7 +714,7 @@ Original source reports should be consulted when interpreting the processed data
 
 **Micaiah Adeoluwa Adedeji**
 
-Developer interested in bioinformatics, artificial intelligence in healthcare, biomedical data science and infectious disease analytics.
+Bioinformatician and computational biologist working across genomics, biomedical data science, artificial intelligence, and infectious disease research.
 
 ---
 
