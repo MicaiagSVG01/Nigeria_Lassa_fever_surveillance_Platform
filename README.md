@@ -2,6 +2,7 @@
 Interactive infectious disease surveillance dashboard analyzing NCDC data to explore temporal trends, state-level disease burden, mortality, and case fatality patterns in Nigeria.
 🌐 **Live Demo:** <img width="2559" height="1371" alt="image" src="https://github.com/user-attachments/assets/f096bdce-f92f-4f7f-afa7-0729fc77cf48" /> (https://nigerialassafeversurveillanceplatform-vycfshqusghc9xc7qcrqqe.streamlit.app/)
 📊 **Current MVP:** Lassa Fever, 2026
+STREAMLIT APP LINK: https://nigerialassafeversurveillanceplatform-vycfshqusghc9xc7qcrqqe.streamlit.app/
 
 ## Overview
 
